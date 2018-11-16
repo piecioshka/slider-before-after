@@ -1,0 +1,86 @@
+/* http://danielstern.ca/range.css/?ref=css-tricks */
+
+:root {
+    --track-color: #000;
+    --track-height: 100px;
+    --track-width: 5px;
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: 0;
+    cursor: pointer;
+    margin: 0;
+    opacity: 0;
+    transition: 0.3s all;
+}
+input[type="range"]:hover {
+    opacity: 1;
+}
+input[type="range"]:focus {
+    outline: none;
+}
+input[type="range"]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: var(--track-height);
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+    border: none;
+    height: var(--track-height);
+    width: var(--track-width);
+    background: var(--track-color);
+    cursor: pointer;
+    -webkit-appearance: none;
+}
+input[type="range"]::-moz-range-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    background: rgba(48, 113, 169, 0);
+    border: none;
+}
+input[type="range"]::-moz-range-thumb {
+    border: none;
+    height: var(--track-height);
+    width: var(--track-width);
+    background: var(--track-color);
+    cursor: pointer;
+}
+input[type="range"]::-ms-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    color: transparent;
+}
+input[type="range"]::-ms-fill-lower {
+    background: rgba(10, 23, 34, 0);
+    border: none;
+}
+input[type="range"]::-ms-fill-upper {
+    background: rgba(48, 113, 169, 0);
+    border: none;
+}
+input[type="range"]::-ms-thumb {
+    border: none;
+    height: 36px;
+    width: 5px;
+    background: var(--track-color);
+    cursor: pointer;
+    height: 8.4px;
+}
+input[type="range"]:focus::-ms-fill-lower {
+    background: rgba(48, 113, 169, 0);
+}
+input[type="range"]:focus::-ms-fill-upper {
+    background: rgba(162, 198, 229, 0);
+}

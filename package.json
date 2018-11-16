@@ -1,0 +1,42 @@
+{
+    "name": "slider-before-after",
+    "description": "Lightweight and simple slider to present images in before / after style with no dependencies",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "lint": "eslint ."
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^5.8.0",
+        "eslint-config-piecioshka": "^2.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/slider-before-after.git"
+    },
+    "files": [
+        "demo",
+        "src",
+        "package.json",
+        "LICENSE",
+        "README.md"
+    ],
+    "keywords": [
+        "slider",
+        "before",
+        "after",
+        "simple",
+        "customizable",
+        "powerful",
+        "lightweight",
+        "images",
+        "no dependencies"
+    ],
+    "main": "./index.js"
+}

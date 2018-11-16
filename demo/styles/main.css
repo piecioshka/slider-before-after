@@ -1,0 +1,9 @@
+:root {
+    --track-color: yellow;
+}
+
+.slider-before-after {
+    margin: 10px;
+    display: inline-block;
+    width: 200px;
+}

@@ -1,0 +1,21 @@
+.slider-before-after {
+    position: relative;
+}
+
+.slider-before-image,
+.slider-after-image {
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.slider-after-image {
+    will-change: width;
+}
+
+.slider-before-image img,
+.slider-after-image img {
+    /* Remove 5.6px of bottom space below image */
+    float: left;
+}
