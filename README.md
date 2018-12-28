@@ -6,6 +6,14 @@
 
 :hammer: Lightweight and simple slider to present images in "before / after" style with no dependencies.
 
+## Demo 🎉
+
+<https://piecioshka.github.io/slider-before-after/demo>
+
+or below:
+
+![](./assets/demo.gif)
+
 ## Features
 
 * :white_check_mark: Display images in before / after style
@@ -13,14 +21,6 @@
 * :white_check_mark: Small size of package
 * :white_check_mark: No dependencies
 * :white_check_mark: Fully customizable
-
-## Example
-
-![](./assets/demo.gif)
-
-## Demo
-
-Click [here](https://piecioshka.github.io/slider-before-after/demo) to see demo.
 
 ## Installation
 
