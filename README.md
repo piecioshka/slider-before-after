@@ -5,7 +5,7 @@
 
 :hammer: Lightweight and simple slider to present images in "before / after" style with no dependencies.
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/slider-before-after/demo>
 
