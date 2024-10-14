@@ -36,10 +36,10 @@ In HTML structure:
 ```html
 <div class="slider-before-after">
     <div class="slider-before-image">
-        <img src="http://placeskull.com/200/200/5CBB88" alt=""/>
+        <img src="https://placeskull.com/200/200/5CBB88" alt=""/>
     </div>
     <div class="slider-after-image">
-        <img src="http://placeskull.com/200/200/435466" alt=""/>
+        <img src="https://placeskull.com/200/200/435466" alt=""/>
     </div>
     <input type="range" class="slider-track"/>
 </div>
@@ -68,4 +68,4 @@ require('slider-before-after');
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2018
+[The MIT License](https://piecioshka.mit-license.org) @ 2018

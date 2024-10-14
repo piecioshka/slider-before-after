@@ -1,7 +1,7 @@
 module.exports = {
     extends: 'piecioshka',
 
-    // http://eslint.org/docs/user-guide/configuring#specifying-environments
+    // https://eslint.org/docs/user-guide/configuring#specifying-environments
     env: {
         browser: true,
         node: true,
@@ -14,7 +14,7 @@ module.exports = {
         // jquery: true,
     },
 
-    // http://eslint.org/docs/rules/
+    // https://eslint.org/docs/rules/
     rules: {
         'no-console': 'off'
     },
