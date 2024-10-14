@@ -18,7 +18,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/slider-before-after.git"
+        "url": "git+ssh://git@github.com/piecioshka/slider-before-after.git"
     },
     "files": [
         "demo",
