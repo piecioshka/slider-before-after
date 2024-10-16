@@ -5,7 +5,7 @@
 [![downloads count](https://img.shields.io/npm/dt/slider-before-after.svg)](https://www.npmjs.com/package/slider-before-after)
 [![license](https://img.shields.io/npm/l/slider-before-after.svg)](https://piecioshka.mit-license.org)
 
-:hammer: Lightweight and simple slider to present images in "before / after" style with no dependencies.
+🔨 Lightweight and simple slider to present images in "before / after" style with no dependencies.
 
 ## Preview 🎉
 
@@ -17,11 +17,11 @@ or below:
 
 ## Features
 
-* :white_check_mark: Display images in before / after style
-* :white_check_mark: Use CSS Level 4 (CSS Variables)
-* :white_check_mark: Small size of package
-* :white_check_mark: No dependencies
-* :white_check_mark: Fully customizable
+* ✅ Display images in before / after style
+* ✅ Use CSS Level 4 (CSS Variables)
+* ✅ Small size of package
+* ✅ No dependencies
+* ✅ Fully customizable
 
 ## Installation
 
