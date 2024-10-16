@@ -3,6 +3,7 @@
 [![node version](https://img.shields.io/node/v/slider-before-after.svg)](https://www.npmjs.com/package/slider-before-after)
 [![npm version](https://badge.fury.io/js/slider-before-after.svg)](https://badge.fury.io/js/slider-before-after)
 [![downloads count](https://img.shields.io/npm/dt/slider-before-after.svg)](https://www.npmjs.com/package/slider-before-after)
+[![size](https://packagephobia.com/badge?p=slider-before-after)](https://packagephobia.com/result?p=slider-before-after)
 [![license](https://img.shields.io/npm/l/slider-before-after.svg)](https://piecioshka.mit-license.org)
 
 🔨 Lightweight and simple slider to present images in "before / after" style with no dependencies.
