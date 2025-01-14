@@ -18,19 +18,19 @@ or below:
 
 ## Features
 
-* ✅ Display images in before / after style
-* ✅ Use CSS Level 4 (CSS Variables)
-* ✅ Small size of package
-* ✅ No dependencies
-* ✅ Fully customizable
+- ✅ Display images in before / after style
+- ✅ Use CSS Level 4 (CSS Variables)
+- ✅ Small size of package
+- ✅ No dependencies
+- ✅ Fully customizable
 
-## Installation
+## Usage
+
+Installation:
 
 ```bash
 npm install slider-before-after
 ```
-
-## Usage
 
 In HTML structure:
 
